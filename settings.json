@@ -1,0 +1,25 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.colorCustomizations": {
+    "scrollbarSlider.activeBackground": "#ee8257",
+    "scrollbarSlider.hoverBackground": "#ee8257",
+    "scrollbarSlider.background": "#ee8257",
+ },
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "json.schemas": [],  
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.explorerKind": "external",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "window.zoomLevel": 1
+}
