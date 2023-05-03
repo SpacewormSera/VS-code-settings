@@ -5,6 +5,12 @@
     "scrollbarSlider.hoverBackground": "#ee8257",
     "scrollbarSlider.background": "#ee8257",
  },
+ "editor.quickSuggestions": {
+  "other": "on",
+  "comments": "off",
+  "strings": "off"
+ },
+ "editor.parameterHints.enabled": false ,
   "editor.formatOnSave": true,
   "explorer.confirmDelete": false,
   "json.schemas": [],  
